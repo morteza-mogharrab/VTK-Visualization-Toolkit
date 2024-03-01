@@ -7,13 +7,13 @@ These projects showcase the utilization of Python and the Visualization Toolkit 
 ## Project 1: QIBA Lung Collection Visualization
 
 **Utilized Dataset:** QIBA_Lung_Collection - Philips (Spherical_10)  
-**Download Link:** [Dataset Download Link]  
+**Download Link:** [QIBA Lung Collection Dataset](https://qidw.rsna.org/#item/5b845ae0b3467a6a92109a3a)  
 **File Size:** 970 Mb (Utilized dataset folder size: 152 Mb)
 
 ### System Requirements:
 - Python Version: 3.11.5
 - VTK Version: 9.3.0
-- Code Editor: Any of your preference (Sublime Text 3, Visual Studio Code (VSCode), PyCharm, Jupyter Notebook)
+- Code Editor: Any of your preferences (Sublime Text 3, Visual Studio Code (VSCode), PyCharm, Jupyter Notebook)
 
 ### Running Process:
 1. Ensure both the code and the dataset folder are placed in the same directory.
