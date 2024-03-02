@@ -1,9 +1,5 @@
 # QIBA Lung Collection Visualization & 3D Owl Model Rendering
 
-## Introduction
-
-These projects showcase the utilization of Python and the Visualization Toolkit (VTK) for data visualization tasks.
-
 ## Project 1: QIBA Lung Collection Visualization
 
 **Utilized Dataset:** QIBA_Lung_Collection - Philips (Spherical_10)  
@@ -61,7 +57,3 @@ These projects showcase the utilization of Python and the Visualization Toolkit 
 
 ## License:
 MIT License
-
-## Additional Notes:
-- Feel free to choose your preferred code editor for running both projects.
-- Both projects require Python 3.11.5 and VTK 9.3.0.
